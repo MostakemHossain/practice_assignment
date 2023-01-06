@@ -1,0 +1,350 @@
+*{
+    margin: 0;
+}
+.headdr-tittle1{
+    font-weight: 700;
+    font-size: 65px;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 174px;
+}
+.headdr-tittle2{
+    font-weight: 700;
+    font-size: 65px;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.header-dec{
+    font-weight: 400;
+    font-size: 18px;
+    font-family: 'Poppins';
+    color: #ffffff;
+    font-family: 'Poppins';
+    text-align: center;
+    padding-bottom: 30px;
+}
+.btn-primary{
+    font-weight: 600;
+    font-size: 20px;
+    background: #FF5959;
+    border-radius: 5px;
+    border: 0;
+    padding: 18px 20px;
+    text-align: center;
+    margin-left: 640px;
+    margin-bottom: 175px;
+}
+.header{
+    max-width: 2000px;
+    background-image: url('/donate-today/images/donation13.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.section-1 .section-tittle{
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 45px;
+    text-align: center;
+    color: #121212;
+    margin-top: 130px;
+    margin-bottom: 20px;
+
+}
+.section-1 .section-description{
+    font-weight: 400;
+    font-size: 18px;
+    font-family: 'Poppins';
+    color: #707070;
+    font-family: 'Poppins';
+    text-align: center;
+    padding-bottom: 93px;
+}
+.value li{
+    list-style: none;
+}
+.value ul{
+    display: flex;
+    gap: 22px;
+    justify-content: center;
+}
+.value .port{
+    font-family: 'Inter';
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    color: #707070;
+    background: #FAFAFA;
+    border-radius: 5px;
+    padding: 38px 25px;
+
+}
+.value .pro{
+    background: #FFEEEE;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+    padding: 43px 23px;
+}
+.amount_in_write{
+    margin-top: 60px;
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #B3B3B3;
+
+}
+#horizontal{
+    border: 1px solid #DADADA;
+    width: 765px;
+   margin: auto;
+   margin-top: 10px;
+   margin-bottom: 40px;
+}
+.section-2 h1{
+    margin-top: 100px;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.section-2 p{
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+    color: #707070;
+    margin-bottom: 50px;
+
+}
+.section-2 h1{
+    color: #121212;
+    text-align: center;
+    font-weight: 700;
+    font-size: 45px;
+    font-family: 'Inter';   
+}
+.section-3{
+    display: flex;
+    gap: 24px;
+}
+.section-3 h4{
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 24px;
+    color: #121212;
+    margin-top: 31px;
+    margin-left: 23px;
+    margin-bottom: 16px;
+
+}
+.section-3 p{
+    font-weight: 400;
+    font-size: 16px;
+    color: #707070;
+    font-family: 'Poppins';
+    margin-left: 23px;
+    margin-right: 5px;
+    margin-bottom: 30px;
+}
+.section-3 .div1{
+    background: rgba(79, 157, 166, 0.1);
+border-radius: 5px;
+}
+.section-3{
+    margin-left: 157px;
+    margin-right: 140px;
+    
+}
+.section-3 .div2{
+    background: rgba(255, 89, 89, 0.1);
+    border-radius: 5px;
+}
+.section-3 .div3{
+    background: rgba(18, 180, 72, 0.1);
+    border-radius: 5px;
+}
+.section-4 img{
+    width: 456px;
+   height: 477px;
+   
+}
+.section-4{
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+   gap: 100px;
+   margin-right: 180px;
+  
+}
+.section-4 .para{
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+    font-family: 'Inter';
+    margin-bottom: 10px;
+}
+.section-4 p{
+    font-weight: 400;
+    font-size: 18px;
+    font-family: 'Poppins';
+    color: #707070;
+    margin-bottom: 10px;
+
+}
+.section-4 div{
+    padding-left: 156px;
+    
+}
+.btn1{
+    font-weight: 600;
+    font-size: 20px;
+    background: #FF5959;
+    border-radius: 5px;
+    border: 0;
+    padding: 18px 20px;
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 175px;
+}
+
+
+/* section 5 */
+.section-5{
+    display: flex;
+    gap: 100px;
+   align-items: center;
+}
+.section-5 img{
+    background: url(aa.jpg);
+    border-radius: 5px;
+    width: 456px;
+    height: 477px;
+    margin-left: 150px;
+    margin-top: 70px;
+}
+.section-5 .section-5-tittle{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+    margin-top: 50px;
+    
+
+}
+.section-5 p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #707070;
+    margin: bottom 30px;
+
+}
+
+/* section 6 */
+
+.section-6 h1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.section-6 p{
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    color: #707070;
+    margin-bottom: 40px;
+
+
+}
+
+/* .section-7{
+    width: 809px;
+    height: 200px;
+    left: 316px;
+    background: #FFF4D6;
+    margin-left: 300px;
+} */
+.section-7 .center{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 80px;
+}
+.section-7 .center .email{
+    background: #D9D9D9;
+    border-radius: 5px 0px 0px 5px;
+    margin-top: 76px;
+    width: 275px;
+    height: 48px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    /* color: #AA9F9F; */
+    text-align: center;
+   
+}
+.section-7 .center .sub{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    border: 0;
+    color: #FFFFFF;
+    background: #FF5959;
+    border-radius: 0px 5px 5px 0px;
+    padding-right: 30px;
+    padding-left: 30px;
+
+}
+.section-7{
+    
+    margin-left: 300px;
+    background: #FFF4D6;
+    width: 809px;
+    height: 200px;
+}
+footer{
+    text-align: center;
+    background: #0B0D17;
+    height: 177px;
+    width: 1440px;
+    margin-top: 100px;
+}
+footer h3{
+    margin-top: 200px;
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    letter-spacing: 0.5px;
+    color: #FF5959;
+    margin-bottom: 40px;
+    padding: auto;
+   
+}
+footer p{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    color: #D9DBE1;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    
+}
